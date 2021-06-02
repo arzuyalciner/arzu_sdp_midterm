@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.exe
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.deps.json
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.runtimeconfig.json
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.dll
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\bin\Debug\netcoreapp3.1\design_pattern.pdb
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.dll
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.pdb
+C:\Users\ASUS\Desktop\arzu_stuff\my_master_mypc\software_design_pattern\c#\design_pattern\design_pattern\obj\Debug\netcoreapp3.1\design_pattern.genruntimeconfig.cache
